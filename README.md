@@ -1,4 +1,4 @@
-# Agoric-Hack-Final
+# Agoric-Hack-Final: Fair Pass
 Fair Pass - Event Ticketing Smart Contract Documentation
 Overview
 This repository contains two smart contracts, EventCreator and Event, implemented using Solidity for creating, managing, and purchasing event tickets represented as ERC-721 Non-Fungible Tokens (NFTs).
